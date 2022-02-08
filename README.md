@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ketanyadav8807
-- 👀 I’m interested in software development && startup 
-- 🌱 I’m currently learning MERN Stack || Full Stack Development
-- 💞️ I’m looking to collaborate on MERN Stack Projects && develop, and validate a scalable business model
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning MERN Stack || Full Stack Web Development .
+- 💞️ I’m looking to collaborate on MERN Stack Projects .
 - 📫 How to reach me ketanyadavbdh8807@gmail.com
 
 <!---
