@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [ketanyadav8807/Portfolio](ketanyadav8807.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at (https://ketanyadav8807.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN Stack**
 
